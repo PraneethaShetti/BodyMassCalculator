@@ -1,6 +1,7 @@
 {
   "name": "bodumasscalculator",
   "version": "0.1.0",
+  "homepage": "https://praneethashetti.github.io/BodyMassCalculator/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
